@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ayush
+## Hi there 👋, I'm Ayush Sharma
 
 🎯 Aspiring **Data Analyst** passionate about turning raw data into meaningful insights
 
